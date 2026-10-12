@@ -21,4 +21,4 @@ For Q14, click **Run** on PC0 first, then on PC1.
 `q1_parity.c`, `q2_checksum.c`, `q3_crc.c`, `q4_hamming.c`, `q5_stopwait.c`, `q6_gobackn.c`, `q7_selective.c`
 
 ## Steps and IP tables
-See `CN_Lab_Exam_FINAL.docx` (all codes, steps and IP tables in one file).
+See `cn_lab_final.docx` (all codes, steps and IP tables in one file).
